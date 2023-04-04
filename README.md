@@ -143,11 +143,9 @@ Include your plot here
 
 ### Classification Report
 
-Include Classification Report here
-
+![image](https://user-images.githubusercontent.com/94164665/229701983-b2ae3582-e783-459f-b5b8-924e1587b3c3.png)
 ### Confusion Matrix
-
-Include confusion matrix here
+![image](https://user-images.githubusercontent.com/94164665/229701911-c2b913c5-0051-477b-ab04-a8e7e984437e.png)
 
 ### New Sample Data Prediction
 
