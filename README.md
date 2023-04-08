@@ -9,8 +9,7 @@ The MNIST dataset is a collection of handwritten digits. The task is to classify
 ![image](https://user-images.githubusercontent.com/94164665/230705640-8ad66af5-a17f-48fb-bacb-2fd8121fe51b.png)
 
 ## Neural Network Model
-![Uploading image.png…]()
-
+![image](https://user-images.githubusercontent.com/94164665/230705825-20755f3c-9ada-416d-be61-f416817964af.png)
 
 ## DESIGN STEPS:
 
@@ -151,20 +150,24 @@ x_single_prediction = np.argmax(
 print(x_single_prediction)
              
 ```
-## OUTPUT
+## OUTPUT:
 
-### Training Loss, Validation Loss Vs Iteration Plot
+### Training Loss, Validation Loss Vs Iteration Plot:
+![image](https://user-images.githubusercontent.com/94164665/230705869-c87254ba-2bc7-49e3-9fe6-186a4835ba39.png)
+![image](https://user-images.githubusercontent.com/94164665/230705885-b221424e-0496-4fa3-aa64-0a1d02ceb7dc.png)
 
-Include your plot here
 
-### Classification Report
+### Classification Report:
 
 ![image](https://user-images.githubusercontent.com/94164665/229701983-b2ae3582-e783-459f-b5b8-924e1587b3c3.png)
 ### Confusion Matrix
 ![image](https://user-images.githubusercontent.com/94164665/229701911-c2b913c5-0051-477b-ab04-a8e7e984437e.png)
 
-### New Sample Data Prediction
+### New Sample Data Prediction:
+![image](https://user-images.githubusercontent.com/94164665/230705923-4536498d-ee5f-4802-a207-3485061bd7a0.png)
 
-Include your sample input and output for your hand written images.
+![image](https://user-images.githubusercontent.com/94164665/230705948-5a4a25ac-babb-40c8-b7bf-235258c458ed.png)
 
 ## RESULT:
+A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
+
